@@ -16,6 +16,7 @@ Some past projects I'm proud of:
 - Simulating Circular Standing Waves [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
 - CERN Particle Physics Detector 3D Modeling [ALICE_FT0-A](https://digitalcommons.calpoly.edu/physsp/202/)
 - Simulation of Galaxy Tidal Interactions [GalaxySim](https://github.com/Json-To-String/GalaxySim)
+- My work in semiconductor physics [APS March Poster](https://absuploads.aps.org/presentation.cfm?pid=16207)
 
 
 📫 Feel free to email me at ***pruitt.jason8164@gmail.com***
