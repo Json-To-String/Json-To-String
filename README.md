@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Computational Physicist</h3>
 
+
+### About me
+
+I'm a MS Physics Student set to graduate in May 2024, I've acquired quite a bit of experience coding in and out of physics and math contexts.
+My interests are mostly in machine learning and numerical methods.
+I also teach high school physics/math on the side and have TAed college physics as well as a computational physics workshop.
+
+
+### Currently
 - 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Deep Learning to classify galaxies
 
 Some past projects I'm proud of:
