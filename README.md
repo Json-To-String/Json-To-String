@@ -16,11 +16,12 @@ Some past projects I'm proud of:
 - Simulating circular standing waves [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
 - 
 
-- 📫 Email me at 
+
+📫 Email me at 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jason-pruitt816" target="blank"><a href="pruitt.jason8164@gmail.com" target="blank"><<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-pruitt816" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jason-pruitt816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-pruitt816" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
