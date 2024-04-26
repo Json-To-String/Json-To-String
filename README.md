@@ -17,7 +17,7 @@ Some past projects I'm proud of:
 - 
 
 
-📫 Email me at 
+📫 Feel free to email me at ***pruitt.jason8164@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
