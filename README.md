@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Computational Physicist</h3>
 
-- 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro)
+- 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Deep Learning to classify galaxies
 
-- 💬 Ask me about **Using computers to solve physics problems**
+Some past projects I'm proud of:
+- Simulating circular standing waves [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
+- 
 
-- 📫 How to reach me **pruitt.jason8164@gmail.com**
+- 📫 Email me at **pruitt.jason8164@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
