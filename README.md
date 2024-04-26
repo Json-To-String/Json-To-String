@@ -6,15 +6,16 @@
 
 I'm a MS Physics Student set to graduate in May 2024, I've acquired quite a bit of experience coding in and out of physics and math contexts.
 My interests are mostly in machine learning and numerical methods.
-I also teach high school physics/math on the side and have TAed college physics as well as a computational physics workshop.
+I also teach high school physics/math on the side and have TAed college physics as well as developed and taught a computational physics workshop for undergraduate research.
 
 
 ### Currently
 - 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Deep Learning to classify galaxies
 
 Some past projects I'm proud of:
-- Simulating circular standing waves [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
-- 
+- Simulating Circular Standing Waves [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
+- CERN Particle Physics Detector 3D Modeling [ALICE_FT0-A](https://digitalcommons.calpoly.edu/physsp/202/)
+- Simulation of Galaxy Tidal Interactions [GalaxySim](https://github.com/Json-To-String/GalaxySim)
 
 
 📫 Feel free to email me at ***pruitt.jason8164@gmail.com***
