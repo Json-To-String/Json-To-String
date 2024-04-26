@@ -12,7 +12,7 @@ I also teach high school physics/math on the side and have TAed college physics 
 ### Currently
 - 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Deep Learning to classify galaxies
 
-Some past projects I'm proud of:
+### Some past projects I'm proud of:
 - Simulating Circular Standing Waves [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
 - CERN Particle Physics Detector 3D Modeling [ALICE_FT0-A](https://digitalcommons.calpoly.edu/physsp/202/) I also created the model for the [FT0-C](https://github.com/AliceO2Group/AliceO2/blob/dev/Detectors/FIT/FT0/simulation/src/Detector.cxx) as well!
 - Simulation of Galaxy Tidal Interactions [GalaxySim](https://github.com/Json-To-String/GalaxySim)
