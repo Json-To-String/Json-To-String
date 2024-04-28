@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">Computational Physicist</h3>
+<h3 align="center">Physics MS Student, Specializing in Computational </h3>
 
 
 ### About me
