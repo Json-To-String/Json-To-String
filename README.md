@@ -10,7 +10,7 @@ I also teach high school physics/math on the side and have TAed college physics 
 
 
 ### Currently
-- 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Deep Learning to classify galaxies
+- 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Machine Learning to classify cluster galaxies
 
 ### Some past projects I'm proud of:
 - Simulating Circular Standing Waves via Advection [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
