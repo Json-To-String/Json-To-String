@@ -4,8 +4,8 @@
 
 ### About me
 
-I'm a MS Physics Student set to graduate in May 2024, I've acquired quite a bit of experience coding in and out of physics and math contexts.
-My interests are mostly in machine learning and numerical methods.
+I'm a MS Physics Student set to graduate in May 2024 and acquired nearly five years of experience coding in and out of physics and math contexts.
+My interests are mostly in data analysis, machine learning, and numerical methods.
 I also teach high school physics/math on the side and have TAed college physics as well as developed and taught a computational physics workshop for undergraduate research.
 
 
