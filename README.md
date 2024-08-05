@@ -23,12 +23,11 @@ I also teach high school physics/math on the side and have TAed college physics 
 - J. Pruitt, [Development of the ALICE FIT FT0-A Detector Frame in ROOT Geometry](https://digitalcommons.calpoly.edu/physsp/202/), DigitalCommons, physsp 202 June 2021
 
 ### Posters
-- A. Romanowsky*, J. Pruitt; [Galaxy Classification in the Perseus Cluster With a Convolutional Neural Network
+- A. Romanowsky, J. Pruitt; [Galaxy Classification in the Perseus Cluster With a Convolutional Neural Network
 ](https://project.lsst.org/meetings/rubin-2024/galaxy-classification-in-perseus-cluster-convolutional-neural-network), Rubin Community Workshop 2024
-- J. Klay*, S. Christiansen, J. Pruitt; Construction of the ALICE FT0-C Support Structure in ROOT Geometry, Cal Poly FROST 2021
-- M. Beekman*, A. Jarymowycz, J. Pruitt, K. Thomson, A. Tinkess; [C71.00050 : An evaluation of methods for measuring thermomagnetic transport properties of bulk and thin film materials](https://meetings.aps.org/Meeting/MAR20/Session/C71.50), APS March 2020
-(* Advisor/PI)
-
+- J. Klay, S. Christiansen, J. Pruitt; Construction of the ALICE FT0-C Support Structure in ROOT Geometry, Cal Poly FROST 2021
+- M. Beekman, A. Jarymowycz, J. Pruitt, K. Thomson, A. Tinkess; [C71.00050 : An evaluation of methods for measuring thermomagnetic transport properties of bulk and thin film materials](https://meetings.aps.org/Meeting/MAR20/Session/C71.50), APS March 2020
+  
 📫 Feel free to email me at ***pruitt.jason8164@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
