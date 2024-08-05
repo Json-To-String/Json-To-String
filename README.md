@@ -17,7 +17,7 @@ I also teach high school physics/math on the side and have TAed college physics 
 - CERN Particle Physics Detector ROOT 3D Modeling [ALICE_FT0-A](https://digitalcommons.calpoly.edu/physsp/202/) - I also created the model for the [FT0-C](https://github.com/AliceO2Group/AliceO2/blob/dev/Detectors/FIT/FT0/simulation/src/Detector.cxx) as well!
 - Simulation of Galaxy Tidal Interactions [GalaxySim](https://github.com/Json-To-String/GalaxySim)
 
-## Publications, Posters, Contributed talks
+### Publications, Posters, Contributed talks
 - S. Acharya et al, [ALICE upgrades during the LHC Long Shutdown 2
 ](https://iopscience.iop.org/article/10.1088/1748-0221/19/05/P05062/meta), JINST 19 P05062, May 2024
 -  Construction of the ALICE FT0-C Support Structure in ROOT Geometry, Cal Poly FROST 2021
