@@ -10,12 +10,22 @@ I also teach high school physics/math on the side and have TAed college physics 
 
 
 ### Currently
-- 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Machine Learning to classify cluster galaxies. I defended my masters project on 5/14/24 and have included the presentation and writeup in the repository.
+- 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Machine Learning to classify cluster galaxies. I defended my masters project on 5/14/24 and have included the presentation and writeup in the repository. I am also currently working on publishing this work to RNAAS.
 
 ### Some past projects I'm proud of:
 - Simulating Circular Standing Waves via Advection [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
 - CERN Particle Physics Detector ROOT 3D Modeling [ALICE_FT0-A](https://digitalcommons.calpoly.edu/physsp/202/) - I also created the model for the [FT0-C](https://github.com/AliceO2Group/AliceO2/blob/dev/Detectors/FIT/FT0/simulation/src/Detector.cxx) as well!
 - Simulation of Galaxy Tidal Interactions [GalaxySim](https://github.com/Json-To-String/GalaxySim)
+
+## Publications, Posters, Contributed talks
+- S. Acharya et al, [ALICE upgrades during the LHC Long Shutdown 2
+](https://iopscience.iop.org/article/10.1088/1748-0221/19/05/P05062/meta), JINST 19 P05062, May 2024
+-  Construction of the ALICE FT0-C Support Structure in ROOT Geometry, Cal Poly FROST 2021
+- J. Pruitt, [Development of the ALICE FIT FT0-A Detector Frame in ROOT Geometry](https://digitalcommons.calpoly.edu/physsp/202/), DigitalCommons, physsp 202 June 2021
+- [C71.00050 : An evaluation of methods for measuring thermomagnetic transport properties of bulk and thin film materials](https://meetings.aps.org/Meeting/MAR20/Session/C71.50), APS March 2020
+
+
+
 
 📫 Feel free to email me at ***pruitt.jason8164@gmail.com***
 
