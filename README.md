@@ -25,7 +25,7 @@ I also teach high school physics/math on the side and have TAed college physics 
 ### Posters
 - A. Romanowsky, J. Pruitt; [Galaxy Classification in the Perseus Cluster With a Convolutional Neural Network
 ](https://project.lsst.org/meetings/rubin-2024/galaxy-classification-in-perseus-cluster-convolutional-neural-network), Rubin Community Workshop 2024
-- J. Klay, S. Christiansen, J. Pruitt; [Construction of the ALICE FT0-C Support Structure in ROOT Geometry](https://raw.github.com/Json-To-String/Json-To-String/blob/main/Construction%20of%20FT0-C%20Support%20Structure%20in%20ROOT%20Geometry.pdf), Cal Poly FROST 2021
+- J. Klay, S. Christiansen, J. Pruitt; [Construction of the ALICE FT0-C Support Structure in ROOT Geometry](https://github.com/Json-To-String/Json-To-String/blob/main/Construction%20of%20FT0-C%20Support%20Structure%20in%20ROOT%20Geometry.pdf), Cal Poly FROST 2021
 - M. Beekman, A. Jarymowycz, J. Pruitt, K. Thomson, A. Tinkess; [C71.00050 : An evaluation of methods for measuring thermomagnetic transport properties of bulk and thin film materials](https://meetings.aps.org/Meeting/MAR20/Session/C71.50), APS March 2020
   
 📫 Feel free to email me at ***pruitt.jason8164@gmail.com***
