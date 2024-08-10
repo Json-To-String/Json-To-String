@@ -4,9 +4,9 @@
 
 ### About me
 
-I earned my MS in Physics in May 2024 and acquired nearly five years of experience coding in and out of physics and math contexts.
-My interests are mostly in data analysis, machine learning, and numerical methods for scientific collaborations.
-I also teach high school physics/math on the side and have TAed college physics as well as developed and taught a computational physics workshop for undergraduate research.
+I earned my MS in Physics in May 2024 and bring nearly five years of experience in coding, both within and beyond physics and math contexts. My primary interests lie in data analysis, machine learning, and numerical methods for scientific collaborations. I also have experience teaching high school physics and math, serving as a TA for college-level physics, and developing and teaching a computational physics workshop for undergraduate research.
+
+
 
 
 ### Currently
