@@ -12,6 +12,7 @@ I earned my MS in Physics in May 2024 and have acquired nearly five years of exp
 
 ### Currently
 - 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Machine Learning to classify cluster galaxies. I defended my masters project on 5/14/24 and have included the presentation and writeup in the repository. I am also currently working on publishing this work to RNAAS.
+- I'm also working to make a board game personality quiz with [Shelfside](https://www.shelfside.co/)! 
 
 ### Some past projects I'm proud of:
 - Simulating Circular Standing Waves via Advection [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
