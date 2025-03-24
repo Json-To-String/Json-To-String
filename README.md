@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Jason</h1>
+<h1 align="center">Jason Pruitt</h1>
 <h3 align="center">MS Physics, Specializing in Computation </h3>
 
 
 ### About me
 
-I earned my MS in Physics in May 2024 and have acquired nearly five years of experience coding in and out of physics and math contexts. My interests are mostly in data analysis, machine learning, and numerical methods for scientific collaborations. I also teach high school physics/math on the side and have TAed college physics as well as developed and taught a computational physics workshop for undergraduate research.
-
-
-
-
+I earned my MS in Physics in May 2024 and have acquired nearly five years of experience coding in and out of physics and math contexts. My interests are mostly in data analysis, machine learning, and numerical methods for scientific collaborations. I have also taught high school physics/math and have TAed college physics as well as developed and taught a computational physics workshop for undergraduate research.
 
 ### Currently
-- 🔭 I’m currently working on [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Machine Learning to classify cluster galaxies. I defended my masters project on 5/14/24 and have included the presentation and writeup in the repository. I am also currently working on publishing this work to RNAAS.
-- I'm also working to make a board game personality quiz with [Shelfside](https://www.shelfside.co/)! 
+
+- 🔭 I’m in the process of updating [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Machine Learning to classify cluster galaxies. I defended my masters project on 5/14/24 and have included the presentation and writeup in the repository. I am also working on publishing this work to RNAAS.
+- I'm also working to make a board game personality quiz with [Shelfside](https://www.shelfside.co/)! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shelfside-10-personalities.streamlit.app/)
+
 
 ### Some past projects I'm proud of:
 - Simulating Circular Standing Waves via Advection [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
