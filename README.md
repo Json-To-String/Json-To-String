@@ -3,6 +3,7 @@
 
 
 ### About me
+(To be perfectly honest, the username started from a yoyo joke before I fully learned I liked coding. Funny how that works.)
 
 I earned my MS in Physics in May 2024 and have acquired nearly five years of experience coding in and out of physics and math contexts. My interests are mostly in data analysis, machine learning, and numerical methods for scientific collaborations. I have also taught high school physics/math and have TAed college physics as well as developed and taught a computational physics workshop for undergraduate research.
 
