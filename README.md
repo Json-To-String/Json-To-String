@@ -5,16 +5,18 @@
 ### About me
 (To be perfectly honest, the username started from a yoyo joke before I fully learned I liked coding. Funny how that works.)
 
-I earned my MS in Physics in May 2024 and have acquired nearly five years of experience coding in and out of physics and math contexts. My interests are mostly in data analysis, machine learning, and numerical methods for scientific collaborations. I have also taught high school physics/math and have TAed college physics as well as developed and taught a computational physics workshop for undergraduate research.
+I earned my MS in Physics in May 2024 and like to apply good software engineering to scientific projects. I have also taught high school physics/math and have TAed college physics, as well as developed and taught a computational physics workshop for undergraduate research.
 
 ### Currently
-
-- 🔭 I’m in the process of updating [JPAstro](https://github.com/Json-To-String/JPAstro), my MS Project using Machine Learning to classify cluster galaxies. I defended my masters project on 5/14/24 and have included the presentation and writeup in the repository. I am also working on publishing this work to RNAAS.
-- I'm also working to make a board game personality quiz with [Shelfside](https://www.shelfside.co/)! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shelfside-10-personalities.streamlit.app/)
-
+- I am currently working as a researcher for quantum science.
+- I contribute to the [Labscript-Suite](https://labscriptsuite.org/en/latest/), an open source software suite for automating experiments.
+- I help write the firmware for the [DDS-Sweeper](https://github.com/QTC-UMD/dds-sweeper), an agile (and affordable) rf source that uses a raspberry pi pico microcontroller.
+- I also write code for a number of other quantum and optical science projects that I'm hoping make it here soon when they're ready to be public. 
 
 ### Some past projects I'm proud of:
-- Simulating Circular Standing Waves via Advection [CircWaves](https://github.com/Json-To-String/CircWaves) (with a writeup I'm particularly proud of)
+- My [MS Project](https://github.com/Json-To-String/JPAstro) using Machine Learning to classify cluster galaxies. I defended my masters project on 5/14/24 and have included the presentation and writeup in the repository.
+- I made a board game personality quiz with [Shelfside](https://www.shelfside.co/)! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shelfside-10-personalities.streamlit.app/)
+- Simulating Circular Standing Waves via Advection [CircWaves](https://github.com/Json-To-String/CircWaves) 
 - CERN Particle Physics Detector ROOT 3D Modeling [ALICE_FT0-A](https://digitalcommons.calpoly.edu/physsp/202/) - I also created the model for the [FT0-C](https://github.com/AliceO2Group/AliceO2/blob/dev/Detectors/FIT/FT0/simulation/src/Detector.cxx) as well!
 - Simulation of Galaxy Tidal Interactions [GalaxySim](https://github.com/Json-To-String/GalaxySim)
 
